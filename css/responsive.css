@@ -1,0 +1,12 @@
+@media screen and (max-width: 992px) {
+	html{
+		font-size:  90%;
+	}
+	.header__name{
+	font-size: 1rem;
+	-webkit-font-size: cover;
+	font-family:  Broadway;
+	text-align:  center;
+	max-height: 7.625rem;
+	}
+}
